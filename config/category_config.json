@@ -1,0 +1,82 @@
+{
+  "BAR": {
+    "sic_exclusive": [
+      86410401,
+      58130203,
+      79220302
+    ],
+    "sic_6": [
+    ],
+    "sic_range": [
+      [58130000, 58130202],
+      [58130204, 58139999]
+    ],
+    "sic_not": [
+    ],
+    "description": "Bars and Nightclubs"
+  },
+  "EAT": {
+    "sic_exclusive": [
+    ],
+    "sic_6": [
+    ],
+    "sic_range": [
+      [58120000, 58129909]
+    ],
+    "sic_not": [
+      58120201,
+      58120204,
+      58120205,
+      58120301,
+      58120304,
+      58120306,
+      58120402,
+      58120403,
+      58120404,
+      58129903,
+      58129905,
+      58129906
+    ],
+    "description": "Restaurants (except those unlikely to be open at night)"
+  },
+  "ART": {
+    "sic_exclusive": [
+      78320000
+    ],
+    "sic_6": [
+    ],
+    "sic_range": [
+      [79220300, 79220306],
+      [65120300, 65120302]
+    ],
+    "sic_not": [
+    ],
+    "description": "Cinemas, Theaters, and Performing Arts/Music Venues"
+  },
+  "LIQ": {
+    "sic_exclusive": [
+    ],
+    "sic_6": [
+    ],
+    "sic_range": [
+      [59200000, 59299999]
+    ],
+    "sic_not": [
+    ],
+    "description": "Liquor Stores"
+  },
+  "HOM": {
+    "sic_exclusive": [
+    ],
+    "sic_6": [
+      832268,
+      832241,
+      832240
+    ],
+    "sic_range": [
+    ],
+    "sic_not": [
+    ],
+    "description": "Services for the homeless"
+  }
+}
